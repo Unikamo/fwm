@@ -1,2 +1,2 @@
-# FWM
+# fwm
  Foxtrot's Window Manager
